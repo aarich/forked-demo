@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/forked-demo/static/js/app.4e144313.chunk.js",
-    "app.js.map": "/forked-demo/static/js/app.4e144313.chunk.js.map",
+    "app.js": "/forked-demo/static/js/app.d06480fd.chunk.js",
+    "app.js.map": "/forked-demo/static/js/app.d06480fd.chunk.js.map",
     "runtime~app.js": "/forked-demo/static/js/runtime~app.2b07179d.js",
     "runtime~app.js.map": "/forked-demo/static/js/runtime~app.2b07179d.js.map",
     "static/js/2.0c67414f.chunk.js": "/forked-demo/static/js/2.0c67414f.chunk.js",
@@ -17,6 +17,6 @@
   "entrypoints": [
     "static/js/runtime~app.2b07179d.js",
     "static/js/2.0c67414f.chunk.js",
-    "static/js/app.4e144313.chunk.js"
+    "static/js/app.d06480fd.chunk.js"
   ]
 }
