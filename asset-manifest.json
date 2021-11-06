@@ -1,22 +1,22 @@
 {
   "files": {
-    "app.js": "/forked-demo/static/js/app.5fcf3eee.chunk.js",
-    "app.js.map": "/forked-demo/static/js/app.5fcf3eee.chunk.js.map",
-    "runtime~app.js": "/forked-demo/static/js/runtime~app.ca5185e2.js",
-    "runtime~app.js.map": "/forked-demo/static/js/runtime~app.ca5185e2.js.map",
-    "static/js/2.ddb2c542.chunk.js": "/forked-demo/static/js/2.ddb2c542.chunk.js",
-    "static/js/2.ddb2c542.chunk.js.map": "/forked-demo/static/js/2.ddb2c542.chunk.js.map",
+    "app.js": "/forked-demo/static/js/app.53e67d9e.chunk.js",
+    "app.js.map": "/forked-demo/static/js/app.53e67d9e.chunk.js.map",
+    "runtime~app.js": "/forked-demo/static/js/runtime~app.a3609150.js",
+    "runtime~app.js.map": "/forked-demo/static/js/runtime~app.a3609150.js.map",
+    "static/js/2.7fd3ad75.chunk.js": "/forked-demo/static/js/2.7fd3ad75.chunk.js",
+    "static/js/2.7fd3ad75.chunk.js.map": "/forked-demo/static/js/2.7fd3ad75.chunk.js.map",
     "favicon-16.png": "/forked-demo/favicon-16.png",
     "favicon-32.png": "/forked-demo/favicon-32.png",
     "favicon.ico": "/forked-demo/favicon.ico",
     "index.html": "/forked-demo/index.html",
     "manifest.json": "/forked-demo/manifest.json",
     "serve.json": "/forked-demo/serve.json",
-    "static/js/2.ddb2c542.chunk.js.LICENSE.txt": "/forked-demo/static/js/2.ddb2c542.chunk.js.LICENSE.txt"
+    "static/js/2.7fd3ad75.chunk.js.LICENSE.txt": "/forked-demo/static/js/2.7fd3ad75.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime~app.ca5185e2.js",
-    "static/js/2.ddb2c542.chunk.js",
-    "static/js/app.5fcf3eee.chunk.js"
+    "static/js/runtime~app.a3609150.js",
+    "static/js/2.7fd3ad75.chunk.js",
+    "static/js/app.53e67d9e.chunk.js"
   ]
 }
