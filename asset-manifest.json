@@ -2,18 +2,18 @@
   "files": {
     "app.js": "/forked-demo/static/js/app.86a2d278.js",
     "app.js.map": "/forked-demo/static/js/app.86a2d278.js.map",
-    "static/js/1.ff2d103a.chunk.js": "/forked-demo/static/js/1.ff2d103a.chunk.js",
-    "static/js/1.ff2d103a.chunk.js.map": "/forked-demo/static/js/1.ff2d103a.chunk.js.map",
+    "vendors~app.js": "/forked-demo/static/js/vendors~app.ff2d103a.chunk.js",
+    "vendors~app.js.map": "/forked-demo/static/js/vendors~app.ff2d103a.chunk.js.map",
     "favicon-16.png": "/forked-demo/favicon-16.png",
     "favicon-32.png": "/forked-demo/favicon-32.png",
     "favicon.ico": "/forked-demo/favicon.ico",
     "index.html": "/forked-demo/index.html",
     "manifest.json": "/forked-demo/manifest.json",
     "serve.json": "/forked-demo/serve.json",
-    "static/js/1.ff2d103a.chunk.js.LICENSE.txt": "/forked-demo/static/js/1.ff2d103a.chunk.js.LICENSE.txt"
+    "static/js/vendors~app.ff2d103a.chunk.js.LICENSE.txt": "/forked-demo/static/js/vendors~app.ff2d103a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/1.ff2d103a.chunk.js",
+    "static/js/vendors~app.ff2d103a.chunk.js",
     "static/js/app.86a2d278.js"
   ]
 }
